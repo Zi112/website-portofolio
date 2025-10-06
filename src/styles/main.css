@@ -1,0 +1,30 @@
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    margin: 0;
+    padding: 50px 0;
+    background: #f4f4f4;
+    color: #333;
+}
+header {
+    background: #07e7f3;
+    color: #fff;
+    padding: 30px 0;
+    text-align: center;
+}
+nav a {
+    color: #fff;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+section {
+    background: #fff;
+    margin: 30px auto;
+    padding: 20px;
+    max-width: 700px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+h2 {
+    color: #0077b6;
+}
